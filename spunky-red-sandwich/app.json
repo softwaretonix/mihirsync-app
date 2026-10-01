@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "MihirSync",
+    "slug": "snack-44bbd315-75e7-47ec-9b18-9cea0035f8aa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.mihirsync.app",
+      "googleServicesFile": "./google-services.json"
+    },
+    "plugins": [
+      "expo-status-bar",
+      "@react-native-google-signin/google-signin",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-9566636476372749~2478360572"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ad21f3f6-90b1-418d-9ce2-25a8d31c8178"
+      }
+    }
+  }
+}

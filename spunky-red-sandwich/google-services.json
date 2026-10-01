@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "655643804828",
+    "firebase_url": "https://mihirsync-news-default-rtdb.firebaseio.com",
+    "project_id": "mihirsync-news",
+    "storage_bucket": "mihirsync-news.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655643804828:android:372b6c7aa4e1f548711959",
+        "android_client_info": {
+          "package_name": "com.mihirsync.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655643804828-d93a9k9oumv8hdf9kektamcum9qb45qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mihirsync.app",
+            "certificate_hash": "27854dded4dd08a54a98c978ec58ca48720161e5"
+          }
+        },
+        {
+          "client_id": "655643804828-qv877hhflaf40g6mt9u5mhdta7rvllju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnzCJYRr1Cf8krsnsljN4LE4lqoS3x5Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655643804828-qv877hhflaf40g6mt9u5mhdta7rvllju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655643804828-aen9j3aii9cj5gmce7mb3lnibflsm68e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mihirsync.mihirsync"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655643804828:android:c7ece80e35e67936711959",
+        "android_client_info": {
+          "package_name": "com.mihirsync.mihirsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655643804828-qv877hhflaf40g6mt9u5mhdta7rvllju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnzCJYRr1Cf8krsnsljN4LE4lqoS3x5Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655643804828-qv877hhflaf40g6mt9u5mhdta7rvllju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655643804828-aen9j3aii9cj5gmce7mb3lnibflsm68e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mihirsync.mihirsync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
